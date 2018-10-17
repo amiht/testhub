@@ -4,6 +4,7 @@ Tea
 Coffee
 Bread Slice
 
-
+Beans
+Lassi
 
 Thanks
